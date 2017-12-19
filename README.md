@@ -1,4 +1,4 @@
-# Experiment Factory <3 LabJS
+# Experiment Factory :heart: LabJS
 
 If you want to make your own experiment interactively, [LabJS](https://github.com/getify/LABjs) can help you!
 

@@ -4,6 +4,14 @@ If you want to make your own experiment interactively, [LabJS](https://github.co
 
 ![img/labjs.png](img/labjs.png)
 
+## Quick Resources
+
+ - [Documentation](https://expfactory.github.io/expfactory/integration-labjs) on expfactory.github.io
+ - [Expfactory Builder](https://expfactory.github.io/builder) is the general builder (for different kinds of experiments, LabJS included)
+ - [Development Writeup](https://vsoch.github.io/2018/debugging-labjs) details the development of the LabJS expfactory integration
+
+And below you can find a concise version of the documentation, for keeping with the codebase.
+
 ## Design Your Experiment
 Take a look at the [getting started](https://github.com/FelixHenninger/lab.js) section of the README.md file linked in the main repository. There is ample documentation about a started kit, along with a tutorial to build your first experiment. You will use the [LabJS builder interface](https://labjs.felixhenninger.com/) to design your experiment, and when you finish, the Experiment Factory (v3.0) is an export option:
 
